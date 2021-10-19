@@ -12,5 +12,4 @@ List of workflows:
 Stale
 Greetings
 Manual
-Labeler
 Main
