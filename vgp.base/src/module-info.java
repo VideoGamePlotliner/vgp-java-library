@@ -46,6 +46,14 @@
  *     <ul>
  *     <li>Module {@code vgp.base} created
  *     </ul>
+ * <li>Version 1.1
+ *     <ul>
+ *     <li>Package {@code vgp.sample} created
+ *     </ul>
+ * <li>Version 1.2
+ *     <ul>
+ *     <li>Class {@code vgp.sample.ObjectBase} created
+ *     </ul>
  * </ol>
  * 
  * @author John Bues
@@ -53,4 +61,5 @@
  * @see "The custom module vgp.fx.base"
  */
 module vgp.base {
+	exports vgp.sample;
 }
