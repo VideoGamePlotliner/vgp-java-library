@@ -1,4 +1,5 @@
 # vgp-java-library
+
 A private collection of Java classes and extensions. Java (c) Oracle. License
 for this library is valid unless overridden by law or by Oracle.
 
@@ -21,7 +22,7 @@ is 1.7, and a package whose @version is 3.1, then that module's change log
 should end with a description of the changes made in ver. 3.1.
 
 List of workflows:
-Stale
-Greetings
-Manual
-Main
+- Stale
+- Greetings
+- Manual
+- Main
