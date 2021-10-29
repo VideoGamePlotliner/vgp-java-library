@@ -54,6 +54,10 @@
  *     <ul>
  *     <li>Class {@code vgp.sample.ObjectBase} created
  *     </ul>
+ * <li>Version 1.3
+ *     <ul>
+ *     <li>Package {@code vgp.clone} created
+ *     </ul>
  * </ol>
  * 
  * @author John Bues
