@@ -72,4 +72,6 @@
  */
 module vgp.base {
 	exports vgp.sample;
+	exports vgp.clone;
+	exports vgp.dispose;
 }
