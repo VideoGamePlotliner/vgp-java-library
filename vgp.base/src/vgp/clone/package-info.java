@@ -11,7 +11,7 @@
  * should {@code export} this package to all other modules.
  * 
  * @author John Bues
- * @version 1.3
+ * @version 1.4
  * @see java.lang.Object#clone()
  * @see java.lang.Cloneable
  * @since 1.3

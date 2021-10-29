@@ -58,6 +58,10 @@
  *     <ul>
  *     <li>Package {@code vgp.clone} created
  *     </ul>
+ * <li>Version 1.4
+ *     <ul>
+ *     <li>Interface {@code vgp.clone.CloneableBase} created
+ *     </ul>
  * </ol>
  * 
  * @author John Bues
