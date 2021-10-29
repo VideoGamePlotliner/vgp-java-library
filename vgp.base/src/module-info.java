@@ -56,10 +56,12 @@
  *     </ul>
  * <li>Version 1.3
  *     <ul>
+ *     <li>Package {@code vgp.clone} created
  *     <li>Package {@code vgp.dispose} created
  *     </ul>
  * <li>Version 1.4
  *     <ul>
+ *     <li>Interface {@code vgp.clone.CloneableBase} created
  *     <li>Interface {@code vgp.dispose.Disposable} created
  *     </ul>
  * </ol>
